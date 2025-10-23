@@ -17,6 +17,13 @@ It makes work faster, reduces mistakes, and helps doctors give better care to pa
 1. Backend – Node.js/Express
 2. Front-End
 3. Database
-   # How it works
+# How it works
    The Smart Healthcare Appointment System is a mobile and web-based application designed to simplify the process of booking medical appointments. It combines AI-driven symptom analysis, real-time scheduling, and teleconsultation to improve patient experience and hospital management. The system aims to reduce waiting times, enhance accessibility, and ensure efficient healthcare service delivery.
-   
+# domain
+The domain of Hospital Management Software is Healthcare and Information Technology (HealthTech).
+It combines medical services (like patient care, treatment, and hospital operations) with computer technology (like databases, software, and automation).
+This domain focuses on improving hospital work using digital tools — such as storing patient records, managing staff, billing, and reports — all in one system
+# link
+https://github.com/KPS-star/project/edit/main/README.md
+
+
